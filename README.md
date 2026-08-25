@@ -2,7 +2,7 @@
 
 Low-cost Vision-Language-Action (VLA) system for mobile robotics, using a single laptop webcam as the sole visual sensor.
 
-**Status:** Phase 0 — Environment setup
+**Status:** Phase 1 - Basic vision (color detection, object tracking, pixel↔tabletop mapping)
 
 ## Overview
 
