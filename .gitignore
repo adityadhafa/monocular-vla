@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Environment variables / API keys (JANGAN pernah commit ini)
+.env
+*.key
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data / recordings (bisa gede, jangan masuk git; nanti dipertimbangkan pakai Git LFS kalau perlu)
+*.mp4
+*.avi
+data/raw/
